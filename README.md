@@ -1,3 +1,3 @@
 # js-github-finder
 
-[Demo](https://ludmilajalcova.github.io/js-github-finder)
+[Demo](https://ludmilaschlegelova.github.io/js-github-finder)
